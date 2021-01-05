@@ -7,7 +7,7 @@ category: Guide
 
 ## What is it good for
 
-The `Blok` components provides the possibility to automagically load and render a tree of storyblok schemas. It recursively resolves all bloks as single compponents down the leaves.
+The `Blok` components provides the possibility to automagically load and render a tree of storyblok schemas. It recursively resolves all bloks as single components down the leaves.
 
 ## Usage
 
